@@ -1,0 +1,162 @@
+Snum effe dicitur. Nam fecundum vnitatem &num lapides,&num
+animal, Gnum corpus, &c. dicere folemus. Ceterum Gnitas in nume-
+ris nullam fufcipit diuifionem, quemadmodum nec pundum in ma-
+gnitudinibus, &t libro primo docuimus.
+II.
+NVMERVS autem,ex vnitatibus compofita mul-
+titudo.
+CVM numerus fit multitudo quadam ex vnitatibus compofita,
+manifeftum est, numerum quemlibet tot habere partes,quot funt &-
+nitates eum conftituentes: Ita vt vnitas fit pars cuiufuis numeri de-
+nominata ab ipfo numero, cuius est pars. Vt numerus 8.compofitus
+ex octo Gnitatibus,diuiditur in totidem partes,nimirum in 8.Gnita-
+tes, quarum qualibet octaua pars dicitur octonarij. Sic quoq, numerus
+100. ex centum vnitatibus compofitus, in totidem diftribuitur,qua
+rum qualibet centefima ipfius pars est, &c.
+EX his fequitur, omnes numeros, quotcunque fint, inter fe com-
+menfurabiles effe,cum eos vna eademq, menfura,nimirum vnitas, ve
+dictum est, metiatur: Id quod omnibus magnitudinibus nulla potest
+ratione conuenire, cum plurima carum menfuram communem non
+habeant,fed prorfus fint incommenfurabiles,&t clariffimè lib.10.often-
+detur.
+III.
+PARS eft numerus numeri, minor maioris, cùm
+minor metitur maiorem.
+NON est diffimilis hac definitio illi, qua Euclides lib.s. partem
+quantitatis continue expofuit.Sicut enim ibi, ita & hic partem dun-
+taxat aliquotam definit, cum hac folam propriè dicatur metiri to-
+St ibidem latius explicauimus. Itaque numerus G.dicetur pars
+omnium horum numerorum 12.18.24.30.60.630. c.quia ille finga-
+los hos metitur. Similiter huius numeri 576. partes erunt omnes hi
+numeri 3.4.6.8. cum illum finguli hi metiantur,&t perfpicuum est.
+tum,
+OMNIS autem pars ab co numero nomen fibifumit, per quem
+ipfa numerum, cuius pars est, metitur; &t 6.pars huius numeri 42.
+nomen trahit a 7. cum 6. metiatur 42.per 7. Itaque 6. erit feptime
+pars numeri 42. & in reliquis eodem modo.
+IV.
+PARTES autem, cùm non metitur.
+VVLT Euclides,numerum minorem maioris numeri,quem now
+metitur, non partem, fed partes appellari: cuiufmodi est numerus 5.
+fi conferatur cum hoc numero 18. Quamuis enim,cùm eum non me-
+tiatur, nifi per fuas &nitates, pars ipfius dici non debeat; aptè tamen
+congruenterg, partes poterit appellari, quod quing, contineat &nita-
+ess
+tes, quarum qualibet decimaoctaua pars est numers 18.Vnde nume-
+rums. dicemus quing, partes decimasotauas numeri 18. Ex quibus
+liquidò conftat, Euclidem nomine partis intellexiffe partem aliquo-
+tam tantum,non 
+autem & aliquantam, vt volunt nonnulli,alioquin
+fuperuacanea 
+effet hac definitio quarta, que partem aliquantam
+comprehendit.
+alle
+CATERVM partes quacunque nomen accipiunt à duobus il-
+lis 
+numeris, per quos 
+communis duoru numerorum menfura Stram-
+que eorum metitur, & 
+eum fcilicet, qui partes dicitur,& eum,cuius
+partes appellatur
+: Ita vt fi communis duorum numerorum men
+fura metiatur minorem per 3. maiorem per 5.dicatur minor maio-
+ris 
+tres quinta, Tales partes funt 6. huius numeri 10. Nam communis
+eorum menfura 2.metitur 6.per 3.610.per 5. Eadem ratione eundem
+numerum 6. dicemus fex decimas eiufdem numeri 10. cum vnitas,
+eorum 
+communis menfura, illum metiatur per G. hunc verò per 10.
+Idem iudicium habeto & 
+de reliquis.
+QVOD fi roges, cur Euclides hoc loco non folum eum numerums
+minorem 
+definiat, 
+qui maioris pars est, verum etiam illum, qui par-
+tes: non autem idipfum quinto 
+lib.in magnitudinibus praftiterit, Ne-
+que enim magnitudinem illam 
+minorem,que maiorem non metitur,
+partes 
+appellauit; fed tantum eam, qua maiorem metitur, partem.
+Refpondemus, huius 
+rei caufam effe, quòd omnis numerus minor cu
+uslibet maioris aut 
+pars est, aut partes, &t propof.4. huius lib.often-
+detur; pars quidem, cum 
+ipfum metitur, partes Gerò,cum non meti-
+ur. At in 
+magnitudinibus longè aliter fe res habet.Non enim propo-
+fitis duabus magnitudinibus 
+inequalibus, neceffariò minor aut pars,
+aut partes est maioris,cùm 
+ea perfape fint incommenfurabiles,&t aper-
+è liber decimus 
+demonftrabit, atq, adeò minor nullo modo contineas
+plures partes maioris
+. Nam folum in magnitudinibus commenfura
+bilibus, minor 
+maioris partes plures comprehendit, fillum non me
+tiatur. Reflè igitur 
+Euclides quints lib.partem duntaxat in magni
+tudinibus, hic autem 
+in numeris & partem,& partes explicauit.
+V.
+MVLTIPLEX verò maior minoris, cùm maio-
+rem metitur minor.
+QVEMADMODVM ille folum numerus minor, maioris
+pars dicitur, qui maiorem metitur, ita quoque ille tantummodo nu-
+merus 
+maior, minoris appellatur multiplex, quem minor metitur
+adeò vt numerus maier, 
+cuius minor est pars, fit viciffim minoris
+multiplex. Vt numerus 
+6. pars est numeri 30. & hic illius multiplex
+est, c. Si verò maiorem 
+minor non metiatur,nullo modo erit maior
+minoris 
+multiplex. Si enim maior minoris multiplex effet,metiretur
+niner maiorem, per 
+hanc definitionem. Et viciffim, fi masar minoria
+mon fuerit multiplex, minor maiorem non metietur:Nam fi metire
+tur minor maiorem, effet per hanc defin.maior minoris multiplex.
+VI.
+PAR numerus eft, qui bifariam diuiditur.
+VT omnes hi numeri 4.10.40.100,1000. pares vocantur,quoniam
+diuiduntur bifariam, fiue in duas partes aquales, cum eorum dimi
+dia fint 2.5.20.50.500..
+VII.
+IMPAR verò, qui bifariam non diuiditur. Vel, qui
+vnitate differt à pari.
+ONNES hi numeri 5. 11. 15. 37. 101, 1001. impares nominantur,
+quia bifariam diuidi nequeunt. Vel certè quia nitate differunt ab
+bis paribus 4.10.14.36.150.1000.Gel etiam ab his 6.12.16.38.102. 1002.
+Ex hoc autem loco perfpicuè colligi potest, vnitatem in numeris prox
+fus effeindiuiduam. Si enim diuideretur, omnis numerus impar ha-
+beret dimidium, atq, adeò bifariam diuidi poffet. Nam huius impa-
+ris II. dimidia pars effent quinq &nitates & femis:cuius contrarium
+Euclides hac definitione docuit.
+VIII.
+PARITER par numerus eft, quem par numerus
+metitur per numerum parem.
+QVIA numerus par est, qui bifariam diuiditur,fit &t quemli
+bet parem aliquis numerus par, faltem binarius,metiatur. Numerus
+igitur ille par, quem par numerus metitur per numerum parem, pari-
+ter par nominatur. Caiufmodi est numerus hic par 32.metitur enim
+ipfum par numeros & per numerum parem 4. Ita quoque par nume-
+us 24 pariter par nuncupabitur,cum eum par numerus 4.metiatur
+per numerum parem 6. c.
+8
+IX.
+PARITER autem impar eft, quem par numerus
+metitur pernumerum imparem.
+QVOD finumerum parem metiatur numerus par per imparem
+numerum, Vocabitur is pariter impar.Qualis est par numerus 30. Me-
+titur enim cum numerus par 2 per imparem numerum Is Sic quoque
+par numerus & metitur eundem per numerum imparems &c.
+CETERYM fi rectè dua proxima definitiones expendantur,
+perfpicuum erit fieri poffe, vt vnus idemq, numerus par, fit & pariter
+par, & pariter impar. Nam par numerus 24 cum eum metiatur par
+numerus 6.per numerum parem 4 pariter par erit. Rurfus quia eun-
+dem numerus par 8. metitur per numerum imparem 3 pariter quoque
+impar Vocabitur. Vnde interpretes nonnulli,exiftimantes hoc effe ab-
+furdums
