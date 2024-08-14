@@ -1,0 +1,127 @@
+eundi, & tertius quarti, æquè multiplex eft; vel eadem
+pars, vel eædem partes: Vel certè, cum primus fecun-
+dum, & tertius quartum, æqualiter continet, eandem-
+que infuper illius partem, vel eafdem partes.
+partes
+VT numeros proportionales in omni genere proportionis rationa
+lis 
+inequalitatis (cuiufmodi 
+funt omnes numeri inaquales inter fe
+collati) complecteremur, addidimus 
+huic definitioni illa verba; vel
+certè, cum primus 
+fecundum, & tertius quartum, æqualiter conti-
+net, eandemque 
+infuper illius partem, veleafdem
+tio etenim 
+Vulgata Euclidis, quam puto effe corruptam, cum mance
+partes. Defini
+fit, atque imperfecta, 
+comprehendit folum proportionales numeros is
+proportione 
+multiplici, fubmultiplicive, & in proportionibus reliquis
+minoris 
+inequalitatis. Nam in proportione multiplici funt quatuor
+quilibet numeri 
+proportionales, cum primus fecundi, & tertius quar-
+ti, aquè multiplex est; in 
+fubmultiplici verò, cum primus fecundi, &
+tertius quarti, 
+eadem pars est; & in reliquis proportionibus minoris
+enaqualitatis, cum primus 
+fecundi, & tertius quarti, eadem,
+fuerit,& vult definitio Euclidis. 
+At verò ex ca nequaquam deprehen
+dere poffumus, quinam 
+numeri proportionales fint in proportione fu
+perparticulari, fuperpartiente, multiplici 
+fuperparticulari, & multi-
+plici fuperpartiente. In his 
+enim omnibus, primus numerus fecundi,
+& tertius quarti, 
+neque aque multiplex esl, neque eadem pars, nequa
+eadem partes; fed primus fecundum, 
+& tertius quartum, aqualiter
+continet, puta vel femel
+, 
+vel 
+aliquoties, & eandem infuper illius par-
+tem, eafdemve partes; vt perfpicuum 
+est ex ijs, que docuimus ad de-
+fin.4.lib.5. Vbi omnes proportiones 
+rationales copiofe explicuimus. Ita-
+que hi numeri 12. 4. 9. 
+3. proportionales funt, cum primus fecundi, &
+tertius quarti aque 
+multiplex fit, nimirum triplus. Item hi 4.12. 3.9.
+est enim primus 
+fecundi, & tertius quarti, eadem pars, nimirum ter-
+tia
+. Rurfus proportionales funt hi numeri 6. 8. 9. 12. quod primus fe-
+cundi, 
+& tertius quarti eadem partes fint, videlicet tres partes quar-
+ta. Denique 7.6.14.12
+. 7.4. 14.8.11.5. 22.10. 12.5.24.10.
+funt numeri proportionales. Nam in primo exemplo primus numerus
+fecundum
+, & tertius quartum, femel, & infuper eandem partem,vi-
+delicet 
+fextam; In fecundo autem femel, & eafdem partes, nimirum
+quartas; In tertio deinde bis, & adhuc partem eandem,videlicet
+quintam, continet; In Gltimo denique primus fecundum,& tertius
+quartum, bis, & praterea eafdem partes complecitar puta duas par-
+es 
+quintas. Quod fi primus numerus fecundi, & tertius quarti, non
+fit 
+aquè multiplex, 
+vel eadem pars, vel eadem partes; vel denique
+primus fecundum
+, & tertius quartum,non aqualiter contineat, can-
+demque infuper illius partem, vel eafdem partes, nullo patto dicenda
+erunt numeri 
+propofiti proportionales.
+QV0-
+Preducatur. Hoc autem ita effe, hac ratione fiet perfpicuum. Cum nu-
+merus 4. metiatur 12. per 3. faciet 4. ipfum 12. toties compofitus, quo-
+ties est vnitas in 3. Quare per defin. 15. numerus 3. multiplicans nu-
+merum 4. producet 12. Quia verò,vt propof. 16.buius lib.oftendemus,
+idem numerus producitur ex multiplicatione 4. in 3. qui ex 3. in 4.
+manifeftum relinquitur, cundem numerum 12. procreari, finume-
+rus 4. multiplicet numerum 3.
+HÆC quoque definitio quadrat in numeros non integros. Nam
+numerus 2. metiri dicitur numerum 133 per squia multipli-
+catus per gignit 13
+XXIV.
+PROPORTIO numerorú eft habitudo quædam
+vnius numeri ad alterum,fecundum quod illius eft mul-
+tiplex, vel pars, partesve; vel certè illum continet femel,
+aut aliquoties,& aliquam infuper illius parté,vel partes.
+SI numerus 20. cum numero 4. conferatur ea ratione,
+multiplex est, nimirum quintuplus, dicetur hac comparatie, habitu-
+qua illius
+dove, Proportio. Sic etiam proportio erit ea habitudo, qua idem nu-
+merus 20. cum numero 60. confertur, fecundum quod illius tertia
+pars est; & fic de reliquis.
+2 cum ita fint, perfpicuum est, tum demum quatuor nume-
+res dici proportionales, cum primus fecundi, & tertius quarti, aque
+multiplex est; Gel eadem pars, vel eadem partes: Vel certè, cum pre-
+mus fecundum, & tertius quartum, aqualiter continet,eandem, in-
+fuper illius partem, vel eafdem partes, vt fupra defin.20. docuimus.
+X X V.
+TERMINI, fiue radices proportionis dicuntur
+duo numeri, quibus in cadem proportione minores fu-
+minequeunt.
+ad
+tertium,
+XXVI.
+CVM tres numeri proportionales fuerint; Primus
+quam habet ad fecundum.At cum quatuor numeri pro-
+duplicatam rationem habere dicitur eius,
+portionales fuerint; Primus ad quartu,triplicatam ratio-
+nem habere dicitur eius, qua habet ad fecundu: Et fem-
+per deinceps vno amplius, quamdiu proportio extiterit.
+HEC definitio,&t ad magnitudines pertinet, copiofe explicata est
+defin. 10. lib. 5. Vnde cum omnia, que ibi fcripfimus,ad numeros hue
+transferri facile poffint,non est quod iterum ea hicrepetamus.
+b
+XXVII
