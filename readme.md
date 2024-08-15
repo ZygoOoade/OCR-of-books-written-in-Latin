@@ -52,6 +52,14 @@ L'utilisateur sélectionne une zone rectangulaire d'intérêt (bounding box) con
 Puis toutes les images sont rognées avec les proportions de la zone rectangulaire d'intérêt définie par l'utilisateur à l'étape précédente.
 
 
+
+Les données sous forme d'image ne sont pas dans les dossiers github mais disponibles sur Google Drive aux liens suivants :
+
+https://drive.google.com/drive/folders/1-0ba_-gKzAtB29r7HHTKCUR-F__8BtmZ?usp=sharing
+
+
+
+
 **Remarques :**
 * La sélection d'une zone rectangulaire d'intérêt sert à éliminer les éléments qu'il pourrait y avoir autour (comme un titre dans l'en tête ou un numéro de page), qui seraient captés par l'OCR et ensuite inséré avec le texte lui-même. Nous pensons surtout au texte dans les marges : l'OCR ne détecte pas qu'il est dans la marge et le met donc au milieu d'une phrase du corps du texte, ce qui ferait dysfonctionner notre processus.
 * Il faut que la zone rectangulaire minimale contenant le texte d'intérêt ne bouge pas d'une page à l'autre du PDF. Autrement dit, que la taille du pied de page, des marges et de l'en tête restent fixe. Cela n'est souvent pas le cas, par exemple, avec des textes récents où il y a des notes de bas de page. Il nous semble que dans ce cas, il faudrait selectionner la zone rectangulaire pour chaque page du PDF.
