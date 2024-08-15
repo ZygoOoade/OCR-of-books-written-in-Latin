@@ -1,14 +1,56 @@
-## Processus
+## Problème
 
-(étape 1) l'utilisateur upload un PDF dont les pages sont au format image.
+Aujourd’hui, via internet, de très nombreux livres sont téléchargeables au format PDF. Le présent projet part du principe que parmi ces PDF de nombreux sont constitués à partir de scans.
+Les PDF constitués par scans présentent deux inconvénients :
+* Le texte ne peut pas être sélectionné car chacune de ses pages est considérée au format image.
+* Le fichier PDF pèse lourd, où son poids varie notamment en fonction de la résolution des images choisie lors du scan.
+
+## Bounding Box Cropping
+
+En premier lieu nous proposons une solution de redimensionnement par zone d'intérêt (bounding box croping) qui est très performante notamment pour enlever un watermark présent sur un PDF.
+
+Après avoir installé les packages :
+
+```
+!pip install Pillow pdf2image
+!apt-get install -y poppler-utils
+```
+
+Nous utilisons une boucle `for` pour transformer chaque page du PDF en une image au format `jpg`. Toutes les images obtenues dans un dossier sont stockées dans un dossier.
+
+```
+for pdf_file in os.listdir(pdf_folder):
+    if pdf_file.endswith(".pdf"):
+        pdf_path = os.path.join(pdf_folder, pdf_file)
+
+        try:
+            # Convertir le PDF en images
+            pages = convert_from_path(pdf_path)
+
+            # Sauvegarder chaque page comme un fichier JPG
+            for i, page in enumerate(pages):
+                jpg_file = f"{os.path.splitext(pdf_file)[0]}_page_{i+1}.jpg"
+                jpg_path = os.path.join(output_folder, jpg_file)
+                page.save(jpg_path, "JPEG")
+
+            print(f"Conversion terminée pour {pdf_file}")
+        except PDFPageCountError:
+            print(f"Erreur lors de la conversion de {pdf_file}: PDF non valide ou corrompu")
+        except Exception as e:
+            print(f"Erreur inattendue lors de la conversion de {pdf_file}: {str(e)}")
+```
+
+Comme Google Colab ne prend pas en charge de manière native les applications basées sur une interface graphique, nous utilisons le package suivant :
+
+```
+!pip install jupyter-dash dash plotly pillow
+```
+
+
+L'utilisateur sélectionne une zone rectangulaire d'intérêt (bounding box) contenant seulement le texte d'intérêt sur toutes les pages du PDF uploadé.
 <br>
-(étape 2) l'utilisateur sélectionne une zone rectangulaire d'intérêt contenant seulement le texte d'intérêt sur toutes les pages du PDF uploadé.
-<br>
-(étape 3) le PDF uploadé est décomposé en autant de fichiers image (`png` ou `jpg`) qu'il contient de pages.
-<br>
-(étape 4) toutes ces images sont rognées avec les proportions de la zone rectangulaire d'intérêt définie par l'utilisateur à l'étape 2.
-<br>
-(étape 5) les images passent dans un OCR les unes après les autres.
+Puis toutes les images sont rognées avec les proportions de la zone rectangulaire d'intérêt définie par l'utilisateur à l'étape précédente.
+
 
 **Remarques :**
 * La sélection d'une zone rectangulaire d'intérêt sert à éliminer les éléments qu'il pourrait y avoir autour (comme un titre dans l'en tête ou un numéro de page), qui seraient captés par l'OCR et ensuite inséré avec le texte lui-même. Nous pensons surtout au texte dans les marges : l'OCR ne détecte pas qu'il est dans la marge et le met donc au milieu d'une phrase du corps du texte, ce qui ferait dysfonctionner notre processus.
