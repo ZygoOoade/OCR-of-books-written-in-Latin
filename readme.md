@@ -53,11 +53,11 @@ Puis toutes les images sont rognées avec les proportions de la zone rectangulai
 
 
 
-Les données sous forme d'image ne sont pas dans les dossiers github mais disponibles sur Google Drive aux liens suivants :
+Les données sous forme d'image ne sont pas dans les dossiers github mais disponibles aux liens suivants :
 
 https://drive.google.com/drive/folders/1-0ba_-gKzAtB29r7HHTKCUR-F__8BtmZ?usp=sharing
-
-
+https://www.e-rara.ch/zut/content/titleinfo/4837753?query=clavius
+https://www.e-rara.ch/zut/content/titleinfo/1182315
 
 
 **Remarques :**
