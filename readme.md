@@ -1,7 +1,8 @@
 ## Problème
 
-Aujourd’hui, via internet, de très nombreux livres sont téléchargeables au format PDF. Le présent projet part du principe que parmi ces PDF de nombreux sont constitués à partir de scans.
-Les PDF constitués par scans présentent deux inconvénients :
+Le présent projet se propose de mettre en œuvre un processus automatisé de conversion de fichiers PDF dont le contenu est constitué d'images en fichiers PDF dont le contenu est constitué de texte exploitable.
+<br>
+En effet, les PDFs constitués par scans présentent plusieurs inconvénients :
 * Le texte ne peut pas être sélectionné car chacune de ses pages est considérée au format image.
 * Le fichier PDF pèse lourd, où son poids varie notamment en fonction de la résolution des images choisie lors du scan.
 
@@ -63,7 +64,7 @@ https://www.e-rara.ch/zut/content/titleinfo/1182315
 **Remarques :**
 * La sélection d'une zone rectangulaire d'intérêt sert à éliminer les éléments qu'il pourrait y avoir autour (comme un titre dans l'en tête ou un numéro de page), qui seraient captés par l'OCR et ensuite inséré avec le texte lui-même. Nous pensons surtout au texte dans les marges : l'OCR ne détecte pas qu'il est dans la marge et le met donc au milieu d'une phrase du corps du texte, ce qui ferait dysfonctionner notre processus.
 * Il faut que la zone rectangulaire minimale contenant le texte d'intérêt ne bouge pas d'une page à l'autre du PDF. Autrement dit, que la taille du pied de page, des marges et de l'en tête restent fixe. Cela n'est souvent pas le cas, par exemple, avec des textes récents où il y a des notes de bas de page. Il nous semble que dans ce cas, il faudrait selectionner la zone rectangulaire pour chaque page du PDF.
-* Nous ne savons pas ce que des OCR comme `pytesseract` produiraient avec tous les éléments de mise en forme du texte, avec tous les éléments non textuels éventuellement présents dans le PDF, et avec les caractères non latin. Pour ce qui est de la mise en forme (texte en gras, italique, alinéas, etc.) nous pensons que celle-ci sera perdue après l'OCR. Nous partirons du principe, en général, que les PDF uploadé ne contiennnent que du texte, et donc pas d'image, pas de tableaux, de schémas ou autre.
+* Nous partirons du principe, en général, que les PDF uploadé ne contiennnent que du texte, et donc pas d'image, pas de tableaux, de schémas ou autre.
 
 **Problèmes :**
 * Il serait intéressant de savoir si l'OCR fonctionne mieux avec des images de petit format qu'avec des images de grand format. Si tel est le cas, il nous semble qu'il faudrait implémenter - en plus - un découpage des images extraites du PDF.
@@ -71,4 +72,3 @@ https://www.e-rara.ch/zut/content/titleinfo/1182315
 
 **Pistes**
 * Il serait très intéressant de tester et comparer la performance de plusieurs OCR. Pour avoir de meilleures performances, le processus suivant pourrait être suivi : une même image est donnée en input à plusieurs OCR. Un LLM compare les différents outputs des différents OCR. Si les différents OCR débouchent sur les mêmes phrases, la qualité de l'OCR est considérée comme fiable. Si en revanche le LLM détecte des différences entre les différents outputs, l'utilisateur intervient manuellement. Il est clair qu'un tel procédé est plus coûteux computationnellement en temps et en énergie, mais également qu'ils présupposent que les différents OCR mobilisés soient à la fois performants mais diffèrent au niveau du réseau de neurone qui les constitue. Il semble en effet possible, dans le cas où les différents OCR sont similaires, qu'ils fassent les mêmes erreurs.
-* Contrairement aux LLMs multimodaux comme Claude 3.5 ou GPT4o, `pytesseract` donne en output le texte de manière brute. Il semble intéressant de distribuer ses résultats à différents LLMs ensuite pour reconstituer le texte original, et d'employer la méthode précédente d'un système de vote où les données reconstituées par un maximum de modèle sont considérées comme fiables.
