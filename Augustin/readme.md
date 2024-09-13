@@ -1,0 +1,1 @@
+Nous avons choisi d'utiliser [Google Cloud vision](https://cloud.google.com/vision?hl=fr) car ce modèle permet d'exporter un fichier `.json` donnant des informations sur la **mise en forme** du fichier qu'on fait passer dans l'OCR
