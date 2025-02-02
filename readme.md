@@ -1,6 +1,6 @@
 ## Problème
 
-Le présent projet se propose de mettre en œuvre un processus automatisé de conversion de fichiers PDF dont le contenu est constitué d'images en fichiers PDF dont le contenu est constitué de texte exploitable.
+Le présent projet se propose de mettre en œuvre un processus automatisé de conversion de fichiers PDF de départ, dont le contenu est constitué d'images, en fichiers PDF d'arrivée, dont le contenu est constitué de texte exploitable.
 <br>
 En effet, les PDFs constitués par scans présentent plusieurs inconvénients :
 * Le texte ne peut pas être sélectionné car chacune de ses pages est considérée au format image.
